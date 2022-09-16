@@ -1,0 +1,10 @@
+.btn {
+    box-shadow: 10px 10px 15px -5px rgba(0,0,0,0.5);
+}
+
+:not(.btn-check) + .btn:hover, .btn:first-child:hover {
+}
+
+.img-fluid{
+    border-radius: 20px;
+}
